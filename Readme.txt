@@ -28,10 +28,10 @@
 4.Simple_Mass_Spring_Dynamics.ipynb
 #Experimental code for Spring Oscillator with measurement noise
 
-5.Simple_Markov.ipynb
+5.BooleanNetwork.ipynb 
 #Experimental code for NIS work on Boolean Network, a networked system on which each node follows a discrete micro mechanism
 
-6.BooleanNetwork.ipynb
+6.Simple_Markov.ipynb
 #Experimental code for NIS work on discrete markov chain
 
 7.Dataplot.ipynb
