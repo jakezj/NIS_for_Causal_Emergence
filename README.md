@@ -1,5 +1,7 @@
 # NIS_for_Causal_Emergence
 
+![Spring_casual_emergence](https://user-images.githubusercontent.com/3622221/195289027-5e097e8a-dbb5-4b11-90d3-b34a759ba673.svg)
+
 ======Neural Information Squeezer for Causal Emergence======
 
 1.models.py
