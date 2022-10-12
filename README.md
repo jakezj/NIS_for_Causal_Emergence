@@ -1,10 +1,9 @@
 # NIS_for_Causal_Emergence
 
 ======Neural Information Squeezer for Causal Emergence======
-
 1. models.py
 
-Models of Neural Information Squeezer (NIS) for causal emergence
+    Models of Neural Information Squeezer (NIS) for causal emergence
 
 2.EI_calculation.py
 
@@ -27,17 +26,22 @@ Models of Neural Information Squeezer (NIS) for causal emergence
     -np.log(rho): - ln(\rho), where \rho=(2L)^{-output_size} is the density of uniform distribution
 
 3.EI_calculation.py
-Code for calculating mutual information
+    
+    Code for calculating mutual information
 
 4.Simple_Mass_Spring_Dynamics.ipynb
-Experimental code for Spring Oscillator with measurement noise
+    
+    Experimental code for Spring Oscillator with measurement noise
 
 5.BooleanNetwork.ipynb
-Experimental code for NIS work on Boolean Network, a networked system on which each node follows a discrete micro mechanism
+    
+    Experimental code for NIS work on Boolean Network, a networked system on which each node follows a discrete micro mechanism
 
 6.BooleanNetwork.ipynb
-Experimental code for NIS work on discrete markov chain
+    
+    Experimental code for NIS work on discrete markov chain
 
 7.Dataplot.ipynb
-The experimental data of three groups of models, of which the vector diagram can be viewed in the folder 'plot'
-The vector maps can correspond to the figures in the paper
+    
+    The experimental data of three groups of models, of which the vector diagram can be viewed in the folder 'plot'
+    The vector maps can correspond to the figures in the paper
