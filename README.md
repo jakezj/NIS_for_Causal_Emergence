@@ -43,7 +43,7 @@
     
     Experimental code for NIS work on Boolean Network, a networked system on which each node follows a discrete micro mechanism
 
-6.BooleanNetwork.ipynb
+6.Simple_Markov.ipynb
     
     Experimental code for NIS work on discrete markov chain
 
