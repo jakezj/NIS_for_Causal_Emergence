@@ -6,7 +6,7 @@
 #Models of Neural Information Squeezer (NIS) for causal emergence
 
 2.EI_calculation.py
-# Approximated calculation program for various EI (Dimensionally averaged EI, Eff, and EI) and related 
+#Approximated calculation program for various EI (Dimensionally averaged EI, Eff, and EI) and related 
     # Quantities on Gaussian neural network
     # input variables：
     #input_size: the dimension of input to the func (neural network) (x_dim)
