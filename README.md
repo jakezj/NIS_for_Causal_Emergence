@@ -1,10 +1,12 @@
 # NIS_for_Causal_Emergence
 
+
 ======Neural Information Squeezer for Causal Emergence======
 
-1.models.py
-
+![figure1](https://user-images.githubusercontent.com/3622221/195289983-7ad8858a-29d7-49c6-ab8f-3369f5c9bce3.png)
 ![c24b9a60-0ff0-46c9-a67b-4498540822dc](https://user-images.githubusercontent.com/3622221/195289528-831af048-b3cb-427d-9d1d-52493391dd74.png)
+
+1.models.py
 
     Models of Neural Information Squeezer (NIS) for causal emergence
 
