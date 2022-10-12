@@ -1,9 +1,10 @@
 # NIS_for_Causal_Emergence
 
 ======Neural Information Squeezer for Causal Emergence======
+
 1.models.py
 
-    Models of Neural Information Squeezer (NIS) for causal emergence
+Models of Neural Information Squeezer (NIS) for causal emergence
 
 2.EI_calculation.py
 
