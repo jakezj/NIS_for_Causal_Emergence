@@ -4,7 +4,7 @@
 
 1.models.py
 
-Models of Neural Information Squeezer (NIS) for causal emergence
+    Models of Neural Information Squeezer (NIS) for causal emergence
 
 2.EI_calculation.py
 
