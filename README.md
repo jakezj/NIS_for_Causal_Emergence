@@ -3,12 +3,11 @@
 
 ======Neural Information Squeezer for Causal Emergence======
 
-![figure1](https://user-images.githubusercontent.com/3622221/195289983-7ad8858a-29d7-49c6-ab8f-3369f5c9bce3.png)
-![c24b9a60-0ff0-46c9-a67b-4498540822dc](https://user-images.githubusercontent.com/3622221/195289528-831af048-b3cb-427d-9d1d-52493391dd74.png)
-
 1.models.py
 
     Models of Neural Information Squeezer (NIS) for causal emergence
+
+ ![figure1](https://user-images.githubusercontent.com/3622221/195289983-7ad8858a-29d7-49c6-ab8f-3369f5c9bce3.png)
 
 2.EI_calculation.py
 
@@ -33,6 +32,8 @@
 3.EI_calculation.py
     
     Code for calculating mutual information
+    
+![c24b9a60-0ff0-46c9-a67b-4498540822dc](https://user-images.githubusercontent.com/3622221/195291170-733d132d-8973-4dec-b2d0-bf263f1d2ad3.png)
 
 4.Simple_Mass_Spring_Dynamics.ipynb
     
